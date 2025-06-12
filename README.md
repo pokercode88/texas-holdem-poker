@@ -6,7 +6,7 @@
 
 功能包括，完整朋友局功能，散人桌，俱乐部，联盟，有sng，AOF，MTT，经典德州，德州牛仔，奥马哈，大菠萝等八个德州玩法，可以语音聊天，可以视频打牌，有全套防作弊系统，都是完整的项目；
 
-可以自行到谷歌商店或者苹果商店下载进行体验功能
+如果你的银子买不起全套，也可以单独出售客户端或服务器的源码以便学习参考；
 
 源码包括
 
@@ -25,7 +25,6 @@ Complete business plan, the project has been in operation for two years, and the
 
 Functions include complete friend game function, individual table, club, alliance, eight Texas Hold'em games such as SNG, AOF, MTT, classic Texas, Texas Cowboy, Omaha, Big Pineapple, voice chat, video playing, full anti-cheating system, all are complete projects;
 
-You can download it from Google Store or Apple Store to experience the functions
 
 Source code includes
 
